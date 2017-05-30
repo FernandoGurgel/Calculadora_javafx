@@ -1,0 +1,23 @@
+.label-resultado {
+    -fx-font-size: 18pt;
+    -fx-font-family: "roboto"
+}
+
+.fundoButtonOp {
+    -fx-text-fill: white;
+    -fx-background-color: orange;
+}
+
+
+.fundoButton {
+    -fx-text-fill: black;
+    background-color: azure;
+}
+
+.fundo {
+    -fx-background-color: dimgrey;
+}
+@font-face {
+    font-family: roboto;
+    src: url(/com/ifam/calculadora/util/Roboto-Light.ttf);
+}
